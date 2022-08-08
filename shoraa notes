@@ -3,3 +3,4 @@ BELAJAR GIT WPU
 - Memahami apa itu git : Salah satu software yang bisa melakukan VCS.
 - Memahami apa itu branch : cabang bebas dari sebuah commit
 - Memahami apa itu merge : menggabungkan branch
+- memahami apa itu push & pull : push untuk mengirimkan commit ke repository sedangkan pull mengambil commit dari repository
